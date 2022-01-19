@@ -34,8 +34,8 @@ to see the test result in your local machine simply run ```npx jest```
 ## Instruction
 To use this application on your machine, simply do
 - Clone this repo then
-- run npm install on your terminal
-- run npm start,  "that's it 😉"
+- run ```npm install``` on your terminal
+- run ```npm start```,  "that's it 😉"
 
 
 ## Demo
